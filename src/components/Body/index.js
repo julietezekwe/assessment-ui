@@ -9,7 +9,7 @@ const About = () => {
   const [activePage, setActivePage] = useState(1);
   const [hasNextPage, setHasNextPage] = useState(true);
   const [loading, setLoading] = useState(false);
-  const limit = 10000;
+  const limit = 10;
 
 
   useEffect(() => {
