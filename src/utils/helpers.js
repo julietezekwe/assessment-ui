@@ -13,4 +13,4 @@ export const isLocalhost = () =>
       )
   );
 
-export const basePath = 'http://localhost:9000/api';
+export const basePath = 'https://assessment-api-19.herokuapp.com/api';
